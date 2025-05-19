@@ -5,7 +5,6 @@ Ce projet est une évolution du jeu classique **Snake** en langage C, dans leque
 ![Langage C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Algorithmique](https://img.shields.io/badge/Algorithmique-blue?style=for-the-badge&logo=code&logoColor=white)
 ![IA](https://img.shields.io/badge/IA-Autonomie-success?style=for-the-badge&logo=robot&logoColor=white)
-![Licence MIT](https://img.shields.io/badge/Licence-MIT-green?style=for-the-badge)
 
 ---
 
